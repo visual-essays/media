@@ -1,2 +1,0 @@
-# media
-Juncture media files
